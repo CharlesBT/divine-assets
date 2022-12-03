@@ -1,0 +1,16 @@
+{
+  "name": "@charlesbt/divine-assets",
+  "version": "1.0.0",
+  "description": "Custom eslint config",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CharlesBT/divine-assets.git"
+  },
+  "author": {
+    "name": "Charles Brébant",
+    "email": "charles.brebant@gmail.com",
+    "url": "https://github.com/CharlesBT"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
